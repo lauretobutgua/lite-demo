@@ -1,0 +1,2 @@
+# lite-demo
+fastapi project
